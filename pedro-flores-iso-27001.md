@@ -1,13 +1,15 @@
-¿Qué es un SGSI? 
+1. ¿Qué es un SGSI? 
 
-¿Cuáles son los tres pilares de la seguridad de la información? 
 
-¿Qué describe la norma ISO 27001? 
 
-¿Qué diferencia hay entre el "qué" y el "cómo" en la ISO 27001? 
+2. ¿Cuáles son los tres pilares de la seguridad de la información? 
 
-¿En qué se basa el SGSI según la ISO 27001? 
+3. ¿Qué describe la norma ISO 27001? 
 
-¿Qué son los controles en la ISO 27001 y dónde se encuentran? 
+4. ¿Qué diferencia hay entre el "qué" y el "cómo" en la ISO 27001? 
 
-¿Por qué es importante el apoyo de la alta dirección? 
+5. ¿En qué se basa el SGSI según la ISO 27001? 
+
+6. ¿Qué son los controles en la ISO 27001 y dónde se encuentran? 
+
+7. ¿Por qué es importante el apoyo de la alta dirección? 
