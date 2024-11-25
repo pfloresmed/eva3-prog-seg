@@ -20,8 +20,8 @@ Mejora continua del servicio, ofrece procesos para medir y mejorar constantement
 
 5. ¿Qué importancia tiene la "Mejora Continua del Servicio" en ITIL? 
 
-
+Es muy importante debido a que asegura que los servicios evolucionen constantemente para satisfacer las necesidades cambiantes del negocio, optimizando los recursos y aumentando la eficiencia. 
 6. ¿Por qué ITIL se considera un marco de trabajo valioso para las organizaciones?
 
-
+Mejora la calidad del serivcio y gestiona eficientemente los procesos y recursos.
 
